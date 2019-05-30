@@ -1,0 +1,62 @@
+[
+    {
+        "product_name": "Television",
+        "department_name": "Electronics",
+        "price": 5.00,
+        "stock_quantity": 10
+    },
+    {
+        "product_name": "Nintendo Switch",
+        "department_name": "Electronics",
+        "price": 5.00,
+        "stock_quantity": 10
+    },
+    {
+        "product_name": "Computer",
+        "department_name": "Electronics",
+        "price": 5.00,
+        "stock_quantity": 10
+    },
+    {
+        "product_name": "Broccoli",
+        "department_name": "Produce",
+        "price": 5.00,
+        "stock_quantity": 10
+    },
+    {
+        "product_name": "Onion",
+        "department_name": "Produce",
+        "price": 5.00,
+        "stock_quantity": 10
+    },
+    {
+        "product_name": "Brussel Sprouts",
+        "department_name": "Produce",
+        "price": 5.00,
+        "stock_quantity": 10
+    },
+    {
+        "product_name": "Muffler",
+        "department_name": "Automotive",
+        "price": 5.00,
+        "stock_quantity": 10
+    },
+    {
+        "product_name": "Brake Pads",
+        "department_name": "Automotive",
+        "price": 5.00,
+        "stock_quantity": 10
+    },
+    {
+        "product_name": "Wiper Blades",
+        "department_name": "Automotive",
+        "price": 5.00,
+        "stock_quantity": 10
+    },
+    {
+        "product_name": "Rolex",
+        "department_name": "Jewelry",
+        "price": 10000.00,
+        "stock_quantity": 10
+    }
+]
